@@ -34,7 +34,7 @@
   sudo npm install -g configurable-http-proxy
   # Change Pypi mirror.
   sudo pip3 install pip -U
-  pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+  pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
   ```
 
 * 安装
